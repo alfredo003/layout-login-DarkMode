@@ -1,12 +1,11 @@
 # Login Dark 
+Dark Mode is a subject (and implementation) that, over time, has been gaining more and more attention, prominence and studies — not by chance, as this dark mode does have its importance in UX and UI.
 
-Dark Mode é um assunto (e implementação) que, com o tempo, vem ganhando cada vez mais atenção, destaque e estudos — não por acaso, pois esse modo escuro tem sim sua importância em UX e UI.
+I'm a back-end developer but I like and admire the front-end.
 
-Eu sou um desenvolvedor back-end mas gosto e admiro o front-end. 
+Develop this small login screen using some basic tools in the universe, such as HTML, CSS, JS.
 
-Desenvovlve essa pequena tela de login utilizando algumas ferramentas bases no universo, como HTML,CSS,JS.
-
-A ideia foi praticemente testas as minhas habilidades como deve front-end.
+The idea was to practically test my skills as a front-end.
 
 <img src="./layout.png"/>
 
